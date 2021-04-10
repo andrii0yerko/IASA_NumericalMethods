@@ -1,5 +1,5 @@
 # Numerical Methods
-Hometasks for the Numerical Methods course by O. Khomenko, 5 semester (Sep-Dec 2020)
+Hometasks for the Numerical Methods course by O. Khomenko, 5 semester (Sep-Dec 2020), IASA, Kyiv Polytechnic Institute.
 
 Implemented with `IPython` notebooks with explanations in ukrainian.
 
